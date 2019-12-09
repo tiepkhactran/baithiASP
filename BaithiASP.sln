@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaithiASP", "BaithiASP\BaithiASP.csproj", "{0C759C6D-D5F2-4A0B-BE44-928D59307C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C759C6D-D5F2-4A0B-BE44-928D59307C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C759C6D-D5F2-4A0B-BE44-928D59307C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C759C6D-D5F2-4A0B-BE44-928D59307C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C759C6D-D5F2-4A0B-BE44-928D59307C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA5B1B5-5ACB-4A99-B0D0-7B6E87999A4D}
+	EndGlobalSection
+EndGlobal
